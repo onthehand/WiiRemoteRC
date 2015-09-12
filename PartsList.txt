@@ -1,0 +1,15 @@
+[1] LEGO caterpillar of LEGO technic series.
+    I use LEGO technic crawler clane 9391, but it has been already EOL.
+    TAMIYA track and wheel set is also acceptable.
+[2] WiiRemote with WiiRemotePlus
+[3] PLANEX Bluetooth USB dongle
+    Almost any bluetooth adapter is acceptable.
+[4] Arduino UNO
+    Any arduino board is acceptable.
+[5] USB Host Shiled
+    Some boards require a hardware hack.
+[6] Toshiba TA7291P mortor driver x 2
+[7] USB battery.
+[8] Battery holder
+[9] TAMIYA twin mortor gear box.
+http://www.amazon.co.jp/gp/product/B001Q119AC/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B001Q119AC&linkCode=as2&tag=onthehand-22
